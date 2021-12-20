@@ -19,10 +19,11 @@ Notebooks, like all code, typically evolve over time.
 - A repository (also called "repo") is a place to hold information about a single coding project. It can have many files, and may use subfolders to organize complex projects. 
 - This repo includes this README.md file and a Python notebook file. 
 
-This Notebook uses:
+This project uses:
 
 - Python for working with Data
 - Markdown for formatting
+- Python (non-notebook) files typically have a .py file extension. See hello.py.
 - Jypter notebook files typically have a .ipynb file extension.
 - Markdown files typically have a .md file extension
 
