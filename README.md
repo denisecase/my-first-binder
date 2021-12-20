@@ -48,6 +48,14 @@ Each cell in the notebook will be Python (by default) or Markdown if we indicate
 - run all cells in a notebook with the arrow (run) icon. 
 - run a single cell with CTRL Enter
 
+## Saving your Work
+
+= Binder reads & runs, but does not have permissions to write to your GitHub repo.
+- When ready to save changes, you'll do it manually. 
+- Click the download icon above your .ipynb file and save your file to a place on your local computer (remember where you put it). 
+- Open a new browser tab to your GitHub cloud repo (e.g., https://github.com/denisecase/my-first-binder)
+- 
+
 ## Full Instructions
 
 - Read [instuctions](https://github.com/alan-turing-institute/the-turing-way/blob/main/workshops/boost-research-reproducibility-binder/workshop-presentations/zero-to-binder-python.md). 
