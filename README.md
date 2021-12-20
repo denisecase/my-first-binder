@@ -39,7 +39,7 @@ There are some key concepts to get started.
 
 - We create code in our GitHub repo. 
 - We go to Binder - visit <https://mybinder.org/>
-- We provide the URL of this repo to Binder and it will run our code.
+- We provide the URL of this repo to Binder and click "Launch". Binder will run our code.
 
 ## Working with Notebooks 
 
