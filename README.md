@@ -54,7 +54,7 @@ Each cell in the notebook will be Python (by default) or Markdown if we indicate
 - When ready to save changes, you'll do it manually. 
 - Click the download icon above your .ipynb file and save your file to a place on your local computer (remember where you put it). 
 - Open a new browser tab to your GitHub cloud repo (e.g., https://github.com/denisecase/my-first-binder)
-- 
+- Click "Add Files" / "Upload Files" and file your file to bring it into your GitHub repo. 
 
 ## Full Instructions
 
